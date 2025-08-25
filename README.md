@@ -1,4 +1,4 @@
-rump Tweets vs S&P 500
+Trump Tweets vs S&P 500
 
 Statistical analysis of whether Donald Trump’s Twitter activity influenced S&P 500 returns.
 
